@@ -1,4 +1,4 @@
-USE sakila;
+Using sakila database;
 
 -- 1a. Display the first and last names of all actors from the table `actor`.
 SELECT first_name, last_name 
